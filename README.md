@@ -1,5 +1,5 @@
 # TodoList_Version.1
-![Design preview for the TodoList](./TodoList_Tuto.png)
+
 How to run the app locally:
 
 1.Run npm install to install all needed dependencies
